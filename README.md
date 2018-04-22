@@ -21,14 +21,14 @@ Windows : https://github.com/macchky/cpuminer/releases/tag/v2.6.0
 ZNYminer260.zipをインストール
 
 Linux系 : 
-	git clone https://github.com/macchky/cpuminer.git
+```　git clone https://github.com/macchky/cpuminer.git　```
 
 
 
 # CPUMiner-2.6.0の設定(Ubuntu)
 
 ※Rootではsudoが必要ありません、sudoがうまく動作しない場合はsudoを使わないでください
-
+```
 cd cpuminer-master
 
 sudo apt update
@@ -44,19 +44,21 @@ sudo apt-get install libcurl4-openssl-dev gcc-mingw-w64 automake gcc make
 ./configure CFLAGS="-O3 -march=native -funroll-loops -fomit-frame-pointer"
  
 make
-
+```
 
 
 # Ubuntuでマイニングする
-
+```
 ./cpuminer-master/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
-
+```
 
 # Windowsでマイニングする
 
 同じフォルダにstart.batというフォルダを作成、その中に
 
+```
 minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
+```
 
 を入力、あとは起動
 

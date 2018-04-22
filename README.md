@@ -10,14 +10,19 @@ bitzeny-2.0.1-win32-setup-unsigned.exe もしくは bitzeny-2.0.1-win64-setup-un
 
 https://bitzeny.jp/
 
+
+
 # CPUMiner-2.6.0
 
 BitZenyをマイニングするためのソフトです
 
 Windows : https://github.com/macchky/cpuminer/releases/tag/v2.6.0
 
+ZNYminer260.zipをインストール
+
 Linux系 : 
 	git clone https://github.com/macchky/cpuminer.git
+
 
 
 # CPUMiner-2.6.0の設定(Ubuntu)
@@ -42,6 +47,18 @@ make
 
 
 
+# Ubuntuでマイニングする
+
+./cpuminer-master/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
+
+
+# Windowsでマイニングする
+
+同じフォルダにstart.batというフォルダを作成、その中に
+
+minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
+
+を入力、あとは起動
 
 
 

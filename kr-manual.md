@@ -1,3 +1,5 @@
+※I used Google Translate※
+
 # BitZenyCore v2.0.1 설치
 
 https://github.com/BitzenyCoreDevelopers/bitzeny/releases

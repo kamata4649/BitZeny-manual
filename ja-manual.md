@@ -12,7 +12,7 @@ https://bitzeny.jp/
 
 
 
-# CPUMiner-2.6.0
+## CPUMiner-2.6.0
 
 BitZenyをマイニングするためのソフトです
 
@@ -25,7 +25,7 @@ Linux系 :
 
 
 
-# CPUMiner-2.6.0の設定(Ubuntu)
+## CPUMiner-2.6.0の設定(Ubuntu)
 
 ※Rootではsudoが必要ありません、sudoがうまく動作しない場合はsudoを使わないでください
 ```
@@ -43,7 +43,7 @@ sudo apt-get install libcurl4-openssl-dev gcc-mingw-w64 automake gcc make
  
 ```
 
-## IntelやAMD系のCPU
+### IntelやAMD系のCPU
 
 
 ```
@@ -53,7 +53,7 @@ make
 ```
 
 
-## ARM系のCPU
+### ARM系のCPU
 
 スマートフォンやラズベリーパイなど
 
@@ -65,12 +65,12 @@ make
 
 
 
-# Ubuntuでマイニングする
+## Ubuntuでマイニングする
 ```
 ./cpuminer-master/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
 ```
 
-# Windowsでマイニングする
+## Windowsでマイニングする
 
 同じフォルダにstart.batというフォルダを作成、その中に
 

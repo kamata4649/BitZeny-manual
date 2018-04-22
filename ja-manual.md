@@ -75,7 +75,7 @@ make
 同じフォルダにstart.batというフォルダを作成、その中に
 
 ```
-minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
+minerd260 -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
 ```
 
 を入力、あとは起動

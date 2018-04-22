@@ -41,10 +41,28 @@ sudo apt-get install libcurl4-openssl-dev gcc-mingw-w64 automake gcc make
 
 ./autogen.sh
  
+```
+
+## IntelやAMD系のCPU
+
+
+```
 ./configure CFLAGS="-O3 -march=native -funroll-loops -fomit-frame-pointer"
  
 make
 ```
+
+
+## ARM系のCPU
+
+スマートフォンやラズベリーパイなど
+
+```
+./configure CFLAGS="-O3 -mfpu=neon"
+ 
+make
+```
+
 
 
 # Ubuntuでマイニングする

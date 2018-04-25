@@ -1,5 +1,11 @@
 ※I used Google Translate※
 
+## 官方网站
+旧网站：http//bitzeny.org/
+
+新网站：https://bitzeny.tech/
+
+
 # BitZenyCore v2.0.1 安装
 
 https://github.com/BitzenyCoreDevelopers/bitzeny/releases

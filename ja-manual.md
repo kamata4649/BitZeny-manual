@@ -1,4 +1,9 @@
-# BitZenyCore v2.0.1 を インストール
+## 公式サイト
+
+旧サイト : http://bitzeny.org/
+新サイト : https://bitzeny.tech/
+
+## BitZenyCore v2.0.1 を インストール
 
 https://github.com/BitzenyCoreDevelopers/bitzeny/releases
 

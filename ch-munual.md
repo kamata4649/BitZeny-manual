@@ -1,7 +1,7 @@
 ※I used Google Translate※
 
 ## 官方网站
-旧网站：http//bitzeny.org/
+旧网站：http://bitzeny.org/
 
 新网站：https://bitzeny.tech/
 

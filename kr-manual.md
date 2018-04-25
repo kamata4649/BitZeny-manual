@@ -1,5 +1,10 @@
 ※I used Google Translate※
 
+## 공식 사이트
+이전 사이트 : http://bitzeny.org/
+
+새 사이트 : https://bitzeny.tech/
+
 # BitZenyCore v2.0.1 설치
 
 https://github.com/BitzenyCoreDevelopers/bitzeny/releases

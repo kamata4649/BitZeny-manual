@@ -1,6 +1,12 @@
 ※I used Google Translate※
 
-# BitZenyCore v2.0.1 Install
+## Official site
+Old site: http://bitzeny.org/
+
+New site: https://bitzeny.tech/
+
+
+## BitZenyCore v2.0.1 Install
 
 https://github.com/BitzenyCoreDevelopers/bitzeny/releases
 

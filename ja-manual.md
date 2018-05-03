@@ -74,7 +74,7 @@ make
 
 ## Ubuntuでマイニングする
 ```
-./cpuminer-master/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
+./cpuminer/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 自分のアドレス
 ```
 
 ## Windowsでマイニングする

@@ -75,7 +75,7 @@ make
 
 ## Ubuntu Mining
 ```
-./cpuminer-master/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u Your address
+./cpuminer/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u Your address
 ```
 
 ## Windows Mining

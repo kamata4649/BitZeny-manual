@@ -75,7 +75,7 @@ make
 
 ## Ubuntu Mining
 ```
-./cpuminer-master/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 자신의 주소
+./cpuminer/minerd -a yescrypt -o stratum+tcp://bitzeny.bluepool.info:3330 -u 자신의 주소
 ```
 
 ## Windows Mining
